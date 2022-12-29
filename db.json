@@ -1,169 +1,164 @@
 {
-  "dolci": [
-    {
-      "id": "01bdefe9-1a98-4ee8-9bf3-a4db1dea314c",
-      "nome": "torta di mele",
-      "prezzo": 10.01,
-      "data": "2022-12-05",
-      "quantita": 3,
-      "ingredienti": [
-        {
-          "nome": "Mele",
-          "unita": "700g"
-        },
-        {
-          "nome": "farina",
-          "unita": "250g"
-        },
-        {
-          "nome": "zucchero",
-          "unita": "200g"
-        },
-        {
-          "nome": "latte",
-          "unita": "150g"
-        },
-        {
-          "nome": "uova",
-          "unita": "2"
-        },
-        {
-          "nome": "limone",
-          "unita": "1"
-        },
-        {
-          "nome": "burro",
-          "unita": "100g"
-        },
-        {
-          "nome": "lievito",
-          "unita": "16g"
-        },
-        {
-          "nome": "cannella",
-          "unita": "&half; cucchiaino"
-        },
-        {
-          "nome": "sale",
-          "unita": "1 pizzico"
-        },
-      ]
-    },
-    {
-      "id": "24b7ae3b-4c16-4daa-a207-b887a2d63195",
-      "nome": "sfogliatella",
-      "prezzo": 1.5,
-      "data": "2022-12-06",
-      "quantita": 1,
-      "ingredienti": [
-        {
-          "nome": "Farina",
-          "unita": "250g"
-        },
-        {
-          "nome": "ricotta di bufala",
-          "unita": "250g"
-        },
-        {
-          "nome": "acqua",
-          "unita": "250g"
-        },
-        {
-          "nome": "zucchero",
-          "unita": "250g"
-        },
-        {
-          "nome": "burro",
-          "unita": "125g"
-        },
-        {
-          "nome": "uova",
-          "unita": "110g"
-        },
-        {
-          "nome": "semolino",
-          "unita": "75g"
-        },
-        {
-          "nome": "miele",
-          "unita": "10g"
-        },
-        {
-          "nome": "cannella",
-          "unita": "1g"
-        },
-        {
-          "nome": "baccello di vaniglia",
-          "unita": "1"
-        },
-        {
-          "nome": "scorza di limone",
-          "unita": "1"
-        },
-      ]
-    },
-    {
-      "id": "18375ceb-79b3-4526-91bd-6637ecc4004d",
-      "nome": "cannolo",
-      "prezzo": 1.5,
-      "data": "2022-12-05",
-      "quantita": 1,
-      "ingredienti": [
-        {
-          "nome": "Ricotta di pecora",
-          "unita": "1kg"
-        },
-        {
-          "nome": "farina",
-          "unita": "260g"
-        },
-        {
-          "nome": "zucchero",
-          "unita": "150g"
-        },
-        {
-          "nome": "cioccolato fondente",
-          "unita": "80g"
-        },
-        {
-          "nome": "marsala",
-          "unita": "60g"
-        },
-        {
-          "nome": "burro",
-          "unita": "30g"
-        },
-        {
-          "nome": "uova",
-          "unita": "20g"
-        },
-        {
-          "nome": "granella di pistacchi",
-          "unita": "15g"
-        },
-        {
-          "nome": "aceto di vino bianco",
-          "unita": "10g"
-        },
-        {
-          "nome": "cacao",
-          "unita": "5g"
-        },
-        {
-          "nome": "sale",
-          "unita": "1 cucchiaino"
-        },
-      ]
-    }
-  ],
-  "utenti": [
-    {
-      "user": "mario",
-      "pass": "1234"
-    },
-    {
-      "user": "carmine",
-      "pass": "test"
-    }
-  ]
+	"dolci": [{
+			"id": "01bdefe9-1a98-4ee8-9bf3-a4db1dea314c",
+			"nome": "torta di mele",
+			"prezzo": 10.01,
+			"data": "2022-12-05",
+			"quantita": 3,
+			"ingredienti": [{
+					"nome": "Mele",
+					"unita": "700g"
+				},
+				{
+					"nome": "farina",
+					"unita": "250g"
+				},
+				{
+					"nome": "zucchero",
+					"unita": "200g"
+				},
+				{
+					"nome": "latte",
+					"unita": "150g"
+				},
+				{
+					"nome": "uova",
+					"unita": "2"
+				},
+				{
+					"nome": "limone",
+					"unita": "1"
+				},
+				{
+					"nome": "burro",
+					"unita": "100g"
+				},
+				{
+					"nome": "lievito",
+					"unita": "16g"
+				},
+				{
+					"nome": "cannella",
+					"unita": "&half; cucchiaino"
+				},
+				{
+					"nome": "sale",
+					"unita": "1 pizzico"
+				}
+			]
+		},
+		{
+			"id": "24b7ae3b-4c16-4daa-a207-b887a2d63195",
+			"nome": "sfogliatella",
+			"prezzo": 1.5,
+			"data": "2022-12-06",
+			"quantita": 1,
+			"ingredienti": [{
+					"nome": "Farina",
+					"unita": "250g"
+				},
+				{
+					"nome": "ricotta di bufala",
+					"unita": "250g"
+				},
+				{
+					"nome": "acqua",
+					"unita": "250g"
+				},
+				{
+					"nome": "zucchero",
+					"unita": "250g"
+				},
+				{
+					"nome": "burro",
+					"unita": "125g"
+				},
+				{
+					"nome": "uova",
+					"unita": "110g"
+				},
+				{
+					"nome": "semolino",
+					"unita": "75g"
+				},
+				{
+					"nome": "miele",
+					"unita": "10g"
+				},
+				{
+					"nome": "cannella",
+					"unita": "1g"
+				},
+				{
+					"nome": "baccello di vaniglia",
+					"unita": "1"
+				},
+				{
+					"nome": "scorza di limone",
+					"unita": "1"
+				}
+			]
+		},
+		{
+			"id": "18375ceb-79b3-4526-91bd-6637ecc4004d",
+			"nome": "cannolo",
+			"prezzo": 1.5,
+			"data": "2022-12-05",
+			"quantita": 1,
+			"ingredienti": [{
+					"nome": "Ricotta di pecora",
+					"unita": "1kg"
+				},
+				{
+					"nome": "farina",
+					"unita": "260g"
+				},
+				{
+					"nome": "zucchero",
+					"unita": "150g"
+				},
+				{
+					"nome": "cioccolato fondente",
+					"unita": "80g"
+				},
+				{
+					"nome": "marsala",
+					"unita": "60g"
+				},
+				{
+					"nome": "burro",
+					"unita": "30g"
+				},
+				{
+					"nome": "uova",
+					"unita": "20g"
+				},
+				{
+					"nome": "granella di pistacchi",
+					"unita": "15g"
+				},
+				{
+					"nome": "aceto di vino bianco",
+					"unita": "10g"
+				},
+				{
+					"nome": "cacao",
+					"unita": "5g"
+				},
+				{
+					"nome": "sale",
+					"unita": "1 cucchiaino"
+				}
+			]
+		}
+	],
+	"utenti": [{
+			"user": "mario",
+			"pass": "1234"
+		},
+		{
+			"user": "carmine",
+			"pass": "test"
+		}
+	]
 }
