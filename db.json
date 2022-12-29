@@ -6,7 +6,18 @@
       "prezzo": 10.01,
       "data": "2022-12-05",
       "quantita": 3,
-      "ingredienti": []
+      "ingredienti": [
+        "Mele",
+        "farina",
+        "zucchero",
+        "latte",
+        "uova",
+        "limone",
+        "burro",
+        "lievito",
+        "cannella",
+        "sale"
+      ]
     },
     {
       "id": "24b7ae3b-4c16-4daa-a207-b887a2d63195",
@@ -14,7 +25,19 @@
       "prezzo": 1.5,
       "data": "2022-12-06",
       "quantita": 1,
-      "ingredienti": []
+      "ingredienti": [
+        "Farina",
+        "ricotta di bufala",
+        "acqua",
+        "zucchero",
+        "burro",
+        "uova",
+        "semolino",
+        "miele",
+        "cannella",
+        "bacello di vaniglia",
+        "scorza di imone"
+      ]
     },
     {
       "id": "18375ceb-79b3-4526-91bd-6637ecc4004d",
@@ -22,7 +45,19 @@
       "prezzo": 1.5,
       "data": "2022-12-05",
       "quantita": 1,
-      "ingredienti": []
+      "ingredienti": [
+        "Ricotta di pecora",
+        "farina",
+        "zucchero",
+        "cioccolato fondente",
+        "marsala",
+        "burro",
+        "uova",
+        "granella di pistacchi",
+        "aceto",
+        "cacao",
+        "sale"
+      ]
     }
   ],
   "utenti": [
