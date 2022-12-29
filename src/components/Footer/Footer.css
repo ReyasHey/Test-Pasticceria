@@ -1,0 +1,21 @@
+footer {
+    background-color: #FBEAAB;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 2% 15% 0 15%;
+}
+
+.flagBall {
+    width: 2.5rem;
+}
+
+.notSelected {
+    filter: saturate(50%) opacity(50%);
+}
+
+.flagBall:hover {
+    filter: saturate(100%) opacity(100%);
+}

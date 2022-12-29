@@ -1,0 +1,23 @@
+.heroBanner {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: auto 50%;
+    background-attachment: fixed;
+
+    background-color: rgba(153, 153, 153, 0.5);
+    background-blend-mode: darken;
+
+    height: 40vh;
+
+    /* Because the Header is "position: fixed" and tall 5rem */
+    margin-top: 5rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heroBanner * {
+    color: white;
+}
