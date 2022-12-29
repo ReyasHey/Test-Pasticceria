@@ -7,16 +7,46 @@
       "data": "2022-12-05",
       "quantita": 3,
       "ingredienti": [
-        "Mele",
-        "farina",
-        "zucchero",
-        "latte",
-        "uova",
-        "limone",
-        "burro",
-        "lievito",
-        "cannella",
-        "sale"
+        {
+          "nome": "Mele",
+          "unita": "700g"
+        },
+        {
+          "nome": "farina",
+          "unita": "250g"
+        },
+        {
+          "nome": "zucchero",
+          "unita": "200g"
+        },
+        {
+          "nome": "latte",
+          "unita": "150g"
+        },
+        {
+          "nome": "uova",
+          "unita": "2"
+        },
+        {
+          "nome": "limone",
+          "unita": "1"
+        },
+        {
+          "nome": "burro",
+          "unita": "100g"
+        },
+        {
+          "nome": "lievito",
+          "unita": "16g"
+        },
+        {
+          "nome": "cannella",
+          "unita": "&half; cucchiaino"
+        },
+        {
+          "nome": "sale",
+          "unita": "1 pizzico"
+        },
       ]
     },
     {
@@ -26,17 +56,50 @@
       "data": "2022-12-06",
       "quantita": 1,
       "ingredienti": [
-        "Farina",
-        "ricotta di bufala",
-        "acqua",
-        "zucchero",
-        "burro",
-        "uova",
-        "semolino",
-        "miele",
-        "cannella",
-        "bacello di vaniglia",
-        "scorza di imone"
+        {
+          "nome": "Farina",
+          "unita": "250g"
+        },
+        {
+          "nome": "ricotta di bufala",
+          "unita": "250g"
+        },
+        {
+          "nome": "acqua",
+          "unita": "250g"
+        },
+        {
+          "nome": "zucchero",
+          "unita": "250g"
+        },
+        {
+          "nome": "burro",
+          "unita": "125g"
+        },
+        {
+          "nome": "uova",
+          "unita": "110g"
+        },
+        {
+          "nome": "semolino",
+          "unita": "75g"
+        },
+        {
+          "nome": "miele",
+          "unita": "10g"
+        },
+        {
+          "nome": "cannella",
+          "unita": "1g"
+        },
+        {
+          "nome": "baccello di vaniglia",
+          "unita": "1"
+        },
+        {
+          "nome": "scorza di limone",
+          "unita": "1"
+        },
       ]
     },
     {
@@ -46,17 +109,50 @@
       "data": "2022-12-05",
       "quantita": 1,
       "ingredienti": [
-        "Ricotta di pecora",
-        "farina",
-        "zucchero",
-        "cioccolato fondente",
-        "marsala",
-        "burro",
-        "uova",
-        "granella di pistacchi",
-        "aceto",
-        "cacao",
-        "sale"
+        {
+          "nome": "Ricotta di pecora",
+          "unita": "1kg"
+        },
+        {
+          "nome": "farina",
+          "unita": "260g"
+        },
+        {
+          "nome": "zucchero",
+          "unita": "150g"
+        },
+        {
+          "nome": "cioccolato fondente",
+          "unita": "80g"
+        },
+        {
+          "nome": "marsala",
+          "unita": "60g"
+        },
+        {
+          "nome": "burro",
+          "unita": "30g"
+        },
+        {
+          "nome": "uova",
+          "unita": "20g"
+        },
+        {
+          "nome": "granella di pistacchi",
+          "unita": "15g"
+        },
+        {
+          "nome": "aceto di vino bianco",
+          "unita": "10g"
+        },
+        {
+          "nome": "cacao",
+          "unita": "5g"
+        },
+        {
+          "nome": "sale",
+          "unita": "1 cucchiaino"
+        },
       ]
     }
   ],
